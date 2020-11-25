@@ -21,8 +21,8 @@ setup(
 From_email = sys.argv[1] # Your email
 passwd = sys.argv[2] # Your Password
 To_email = sys.argv[3] # The email you want to send the info to
-PORT = 465 # Your email provider port
-server = smtplib.SMTP_SSL('smtp.gmail.com', PORT) # Your email provider smtp server
+PORT = 465 # smtp port
+server = smtplib.SMTP_SSL('smtp.gmail.com', PORT) # smtp server
 server.login(From_email, passwd) #login
 
 
