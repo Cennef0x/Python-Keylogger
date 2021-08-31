@@ -6,7 +6,7 @@ This program is free software: you can redistribute it and/or modify it
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This script was made available for informational and educational purposes only.
-Any actions and or activities related to the material contained within this Repository is solely your responsibility.The misuse of these scripts can result in criminal charges brought against the persons in question. Any actions and or activities related to the material contained within this repository is solely your responsibility.The misuse of the information in this repository can result in criminal charges brought against the persons in question. The author will not be held responsible in the event any criminal charges be brought against any individuals misusing the scripts in this repository to break the law.
+Any actions and or activities related to the material contained within this repository is solely your responsibility.The misuse of the information in this repository can result in criminal charges brought against the persons in question. The author will not be held responsible in the event any criminal charges be brought against any individuals misusing the scripts in this repository to break the law.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
