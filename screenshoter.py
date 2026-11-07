@@ -17,7 +17,7 @@ setup(
 
 def upload_IMG():
 	img_Url = "https://api.imgbb.com/1/upload" # Don't change this link
-	Api_Key = "f6gtbf9e0cd2685e185f4b66j1c01k4k" # Put your real API KEY GET ONE HERE : https://api.imgbb.com/
+	Api_Key = "05d8c1cf885e8700d3360abe12626247" # Put your real API KEY GET ONE HERE : https://api.imgbb.com/
 	numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]# Don't change this
 	alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'] # Don't change this
 	random_Name = random.sample(alphabet, 5) + random.sample(numbers, 4) # random name 
